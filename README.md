@@ -2,6 +2,11 @@
 
 ガス主任技術者試験（甲種）の学習資料・過去問をまとめたリポジトリです。
 
+> 📱 **学習アプリ（Webアプリ）は [`study-app/`](study-app/) にあります。**
+> これは別リポジトリ（`gas-study-app.git`）としてGitHub Pagesで公開されています。
+> アプリの開発・編集・デプロイ手順は [`study-app/CLAUDE.md`](study-app/CLAUDE.md) と [`study-app/README.md`](study-app/README.md) を参照してください。
+> 公開URL: https://ryoooooota1012-ai.github.io/gas-study-app/
+
 ## フォルダ構成
 
 ```
